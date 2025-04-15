@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\aplikasi_zodiak\aplikasi_zodiak\obj\Debug\net8.0-windows\aplikasi_zodiak.Form1.resources
+C:\Users\LENOVO\source\repos\aplikasi_zodiak\aplikasi_zodiak\obj\Debug\net8.0-windows\aplikasi_zodiak.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\aplikasi_zodiak\aplikasi_zodiak\obj\Debug\net8.0-windows\aplikasi_zodiak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\aplikasi_zodiak\aplikasi_zodiak\obj\Debug\net8.0-windows\aplikasi_zodiak.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\aplikasi_zodiak\aplikasi_zodiak\obj\Debug\net8.0-windows\aplikasi_zodiak.AssemblyInfo.vb
+C:\Users\LENOVO\source\repos\aplikasi_zodiak\aplikasi_zodiak\obj\Debug\net8.0-windows\aplikasi_zodiak.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\aplikasi_zodiak\aplikasi_zodiak\bin\Debug\net8.0-windows\aplikasi_zodiak.exe
+C:\Users\LENOVO\source\repos\aplikasi_zodiak\aplikasi_zodiak\bin\Debug\net8.0-windows\aplikasi_zodiak.deps.json
+C:\Users\LENOVO\source\repos\aplikasi_zodiak\aplikasi_zodiak\bin\Debug\net8.0-windows\aplikasi_zodiak.runtimeconfig.json
+C:\Users\LENOVO\source\repos\aplikasi_zodiak\aplikasi_zodiak\bin\Debug\net8.0-windows\aplikasi_zodiak.dll
+C:\Users\LENOVO\source\repos\aplikasi_zodiak\aplikasi_zodiak\bin\Debug\net8.0-windows\aplikasi_zodiak.pdb
+C:\Users\LENOVO\source\repos\aplikasi_zodiak\aplikasi_zodiak\obj\Debug\net8.0-windows\aplikasi_zodiak.dll
+C:\Users\LENOVO\source\repos\aplikasi_zodiak\aplikasi_zodiak\obj\Debug\net8.0-windows\refint\aplikasi_zodiak.dll
+C:\Users\LENOVO\source\repos\aplikasi_zodiak\aplikasi_zodiak\obj\Debug\net8.0-windows\aplikasi_zodiak.pdb
+C:\Users\LENOVO\source\repos\aplikasi_zodiak\aplikasi_zodiak\obj\Debug\net8.0-windows\aplikasi_zodiak.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\aplikasi_zodiak\aplikasi_zodiak\obj\Debug\net8.0-windows\ref\aplikasi_zodiak.dll
